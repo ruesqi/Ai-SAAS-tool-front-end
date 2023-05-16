@@ -1,0 +1,30 @@
+.frame-94 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(0, 94.54, 163) 0%, rgb(33.36, 6.27, 77.56) 100%);
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  margin-top: 36px;
+  padding: 13px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.advance-analytics {
+  letter-spacing: 0.48px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.group-50 {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.frame-94.frame-94-1 {
+  margin-top: unset;
+}
+

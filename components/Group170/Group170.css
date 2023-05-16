@@ -1,0 +1,32 @@
+.group-170-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 197px;
+  width: 31px;
+}
+
+.rectangle-55-13 {
+  background-color: var(--alizarin-crimson);
+  border-radius: 5px 5px 0px 0px;
+  height: 172px;
+  margin-right: 1.0px;
+  width: 24px;
+}
+
+.line-27-1 {
+  height: 9px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.number-24 {
+  letter-spacing: 0.36px;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 16px;
+  min-width: 29px;
+  opacity: 0.8;
+  text-align: center;
+}
+

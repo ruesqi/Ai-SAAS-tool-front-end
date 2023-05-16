@@ -1,0 +1,86 @@
+.group-5-8-1 {
+  align-items: center;
+  display: flex;
+  margin-left: 3.0px;
+  margin-top: 10px;
+  min-width: 421px;
+}
+
+.new-customers-1 {
+  letter-spacing: 0.48px;
+  line-height: normal;
+  min-height: 22px;
+  width: 150px;
+}
+
+.number-44 {
+  letter-spacing: 0.48px;
+  line-height: normal;
+  margin-left: 205px;
+  min-height: 22px;
+  min-width: 10px;
+}
+
+.group-52-7 {
+  background-image: url(/static/img/arrow---chevron-right-md-21.svg);
+  background-size: 100% 100%;
+  height: 28px;
+  margin-left: 24px;
+  width: 28px;
+}
+
+.group-5-8-1.group-5-8-2 .new-customers-1,
+.group-5-8-1.group-5-9-2 .new-customers-1 {
+  min-width: 171px;
+  width: unset;
+}
+
+.group-5-8-1.group-5-8-2 .number-44,
+.group-5-8-1.group-5-9-2 .number-44 {
+  margin-left: 184px;
+}
+
+.group-5-8-1.group-5-8-3 .new-customers-1,
+.group-5-8-1.group-5-9-3 .new-customers-1 {
+  min-width: 217px;
+  width: unset;
+}
+
+.group-5-8-1.group-5-8-3 .number-44,
+.group-5-8-1.group-5-9-3 .number-44 {
+  margin-left: 138px;
+}
+
+.group-5-8-1.group-5-8-4 .new-customers-1,
+.group-5-8-1.group-5-9-4 .new-customers-1 {
+  min-width: 227px;
+  width: unset;
+}
+
+.group-5-8-1.group-5-8-4 .number-44,
+.group-5-8-1.group-5-9-4 .number-44 {
+  margin-left: 128px;
+}
+
+.group-5-8-1.group-5-8-5 .new-customers-1,
+.group-5-8-1.group-5-9-5 .new-customers-1 {
+  min-width: 146px;
+  width: unset;
+}
+
+.group-5-8-1.group-5-8-5 .number-44,
+.group-5-8-1.group-5-9-5 .number-44 {
+  margin-left: 209px;
+}
+
+.group-5-8-1.group-5-8 .new-customers-1,
+.group-5-8-1.group-5-9 .new-customers-1 {
+  min-width: 154px;
+  width: unset;
+}
+
+.group-5-8-1.group-5-8 .number-44,
+.group-5-8-1.group-5-9 .number-44 {
+  margin-left: 201px;
+}
+

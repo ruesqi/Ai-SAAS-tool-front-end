@@ -1,0 +1,28 @@
+.group-31-3 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  height: 22px;
+  left: 64px;
+  min-width: 232px;
+  position: fixed;
+  top: 275px;
+  z-index: 8;
+}
+
+.group-30 {
+  height: 20px;
+  width: 20px;
+}
+
+.inventory-management-3 {
+  letter-spacing: 0.48px;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 198px;
+}
+
+.group-31-3.group-31-4 {
+  z-index: 12;
+}
+

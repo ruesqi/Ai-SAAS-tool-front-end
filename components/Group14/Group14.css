@@ -1,0 +1,31 @@
+.group-14 {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 15px;
+  box-shadow: inset 0px 0px 3px #00000040;
+  display: flex;
+  gap: 8px;
+  height: 56px;
+  margin-left: 260px;
+  min-width: 592px;
+  padding: 0 24px;
+}
+
+.group-12 {
+  height: 24px;
+  width: 24px;
+}
+
+.search-anything-from {
+  letter-spacing: 0.48px;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 428px;
+  opacity: 0.6;
+}
+
+.group-14.group-14-6,
+.group-14.group-14-7 {
+  margin-left: 258px;
+}
+

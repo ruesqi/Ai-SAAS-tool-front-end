@@ -1,0 +1,27 @@
+.group-46 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 58px;
+  width: 77px;
+}
+
+.net-sales {
+  letter-spacing: 0.42px;
+  line-height: normal;
+  min-height: 19px;
+  opacity: 0.6;
+}
+
+.price-5 {
+  letter-spacing: 0.72px;
+  line-height: normal;
+  min-height: 33px;
+}
+
+.group-46.group-46-2,
+.group-46.group-46-3 {
+  margin-left: 43px;
+}
+

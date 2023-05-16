@@ -1,0 +1,36 @@
+.group-169-8-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 215px;
+  width: 31px;
+}
+
+.rectangle-56-14 {
+  background-color: var(--malachite);
+  border-radius: 5px 5px 0px 0px;
+  height: 190px;
+  margin-right: 1.0px;
+  width: 24px;
+}
+
+.line-46-2 {
+  height: 9px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.number-23 {
+  letter-spacing: 0.36px;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 16px;
+  min-width: 29px;
+  opacity: 0.8;
+  text-align: center;
+}
+
+.group-169-8-1.group-169-8 .rectangle-56-14 {
+  opacity: 0.6;
+}
+

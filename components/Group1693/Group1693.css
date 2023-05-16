@@ -1,0 +1,36 @@
+.group-1-1-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 177px;
+  width: 31px;
+}
+
+.rectangle-56-15 {
+  background-color: var(--malachite);
+  border-radius: 5px 5px 0px 0px;
+  height: 152px;
+  margin-right: 1.0px;
+  width: 24px;
+}
+
+.line-47 {
+  height: 9px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.number-25 {
+  letter-spacing: 0.36px;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 16px;
+  min-width: 29px;
+  opacity: 0.8;
+  text-align: center;
+}
+
+.group-1-1-1.group-1-1 .rectangle-56-15 {
+  background-color: var(--alizarin-crimson);
+}
+

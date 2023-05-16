@@ -1,0 +1,30 @@
+.frame-2-3 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  gap: 6px;
+  margin-left: 6px;
+  position: relative;
+  width: fit-content;
+}
+
+.last-week-sales {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.group-35-3 {
+  background-image: url(/static/img/arrow---caret-down-md-3.svg);
+  background-size: 100% 100%;
+  height: 36px;
+  min-width: 36px;
+  position: relative;
+}
+
+.frame-2-3.frame-2-4,
+.frame-2-3.frame-2-5 {
+  margin-left: 5px;
+}
+

@@ -1,0 +1,13 @@
+.group-75-2 {
+  align-items: center;
+  background-color: var(--athens-gray);
+  box-shadow: 0px 0px 2px #00000040;
+  display: flex;
+  height: 96px;
+  justify-content: flex-end;
+  min-width: 1920px;
+  padding: 0 46px;
+  position: relative;
+  z-index: 4;
+}
+

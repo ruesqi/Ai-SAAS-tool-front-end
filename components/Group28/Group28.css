@@ -1,0 +1,29 @@
+.group-28-6,
+.group-28-7 {
+  align-items: flex-end;
+  display: flex;
+  gap: 11px;
+  height: 22px;
+  left: 64px;
+  min-width: 83px;
+  position: fixed;
+  top: 205px;
+  z-index: 7;
+}
+
+.icon-home-6,
+.group-6 {
+  height: 22px;
+  margin-bottom: -0.41px;
+  margin-left: -1px;
+  width: 22px;
+}
+
+.place-16,
+.place-17 {
+  letter-spacing: 0.48px;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 49px;
+}
+
